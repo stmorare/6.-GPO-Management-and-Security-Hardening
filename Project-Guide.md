@@ -1,5 +1,3 @@
-GPO-Management-and-Security-Hardening
-
 # Phase 1: Environment Setup
 
 ## Step 1: Create the Domain Controller VM
