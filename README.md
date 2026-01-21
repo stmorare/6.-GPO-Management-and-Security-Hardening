@@ -56,10 +56,8 @@ This project demonstrates the implementation of centralized Windows domain manag
 - Compliance monitoring and reporting
 - Troubleshooting complex policy issues
 
-## 🙏 Acknowledgments
+## 🤝 Acknowledgements
 
-- Windows Server documentation contributors
-- Claude Sonnet | Deepseek ai
-- Stackoverflow
+- Claude Sonnet | Deepseek ai | Stackoverflow
 
 
